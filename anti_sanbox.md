@@ -19,3 +19,12 @@
 ## paper(s)
 
 [反沙箱杂谈](https://xz.aliyun.com/t/14381?time__1311=mqmx9Q0Qex0QD%2F8iiQGkAG88E2cirxiwD&alichlgref=https%3A%2F%2Fxz.aliyun.com%2F)
+
+## code(s)
+
+https://csrc.nist.gov/glossary/term/sandbox
+https://github.com/Hz-36/Anti-Sandbox
+https://github.com/ZanderChang/anti-sandbox
+https://github.com/LordNoteworthy/al-khaser
+https://attack.mitre.org/techniques/T1497
+https://evasions.checkpoint.com
